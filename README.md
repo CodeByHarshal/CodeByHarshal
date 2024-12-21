@@ -1,7 +1,8 @@
 # Hey 👋 Hi I'm Harshal:
 
 # 💫 About Me:
-🔹 Passionate about embedded systems, IoT, and digital electronics.<br>🔹 Skilled in C, Embedded C, and microcontroller programming for real-time applications.<br>
+🔹 Passionate about embedded systems, IoT, and digital electronics.<br>
+🔹 Skilled in C, Embedded C, and microcontroller programming for real-time applications.<br>
 
 # 🚀 Projects I'm Proud Of
 1️⃣ Object Detection System Using Arduino - Developed an IR sensor-based system for object detection and signaling with Arduino UNO.
