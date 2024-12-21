@@ -23,9 +23,9 @@
 🌟 Completed Google Cloud Computing workshop by IIT Bombay, mastering GCP tools like Compute Engine & Cloud Storage.<br>
 
 # 💡 Interests
-🔹 Embedded Systems Development<br
-🔹 IoT and Sensor Integration <br
-🔹 Signal Processing and Digital Electronics <br
+🔹 Embedded Systems Development<br>
+🔹 IoT and Sensor Integration <br>
+🔹 Signal Processing and Digital Electronics <br>
 
 # 💬 Let’s innovate together in the world of embedded systems!
 
