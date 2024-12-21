@@ -35,6 +35,8 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-%2300599C.svg?style=for-the-badge&logo=https://i0.wp.com/arduinofactory.com/wp-content/uploads/2023/05/proteus.png?fit=512%2C352&ssl=1)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CodeByHarshal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
