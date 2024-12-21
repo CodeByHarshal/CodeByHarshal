@@ -18,11 +18,23 @@
 🌟 Develop innovative IoT solutions for real-world applications.<br>
 🌟 Continuously enhance expertise in sensor integration, signal processing, and digital electronics.<br>
 
+# 📌 Achievements & Training
+🌟 Completed Google Cloud Computing workshop by IIT Bombay, mastering GCP tools like Compute Engine & Cloud Storage.<br>
+
+# 💡 Interests
+🔹 Embedded Systems Development<br
+🔹 IoT and Sensor Integration <br
+🔹 Signal Processing and Digital Electronics <br
+
+# 💬 Let’s innovate together in the world of embedded systems!
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshalDhage) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Harshal_Dhage_08) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CodeByHarshal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodeByHarshal&theme=dark&hide_border=false)<br/>
