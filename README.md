@@ -2,14 +2,11 @@
 
 I'm [**Harshal Dhage**](https://github.com/FOSSEE-eSim), a **Digital IC Design and RTL Verification Enthusiast** from **Maharashtra, India**.
 
-I am currently a **Research Intern at [NIELIT Aurangabad](https://www.nielit.gov.in/)**, working on the **design of a 32-bit Superscalar Dual-Issue RISC-V CPU**. My work includes **dual-issue fetch/decode/dispatch units, hazard detection, forwarding logic, branch prediction, and memory hierarchy optimization**.
+I’m currently a **Research Intern at [NIELIT Aurangabad](https://www.nielit.gov.in/)**, working on a **32-bit Superscalar Dual-Issue RISC-V CPU**. Previously, I was a **RTL Design Intern at [FOSSEE, IIT Bombay](https://esim.fossee.in/)**, where I contributed to **RTL modules, verification, and reusable IP for open-source adoption**.  
 
-Previously, I was a **RTL Design Intern at [FOSSEE, IIT Bombay](https://esim.fossee.in/)**, where I **designed synthesizable RTL modules for analog and digital ICs**, performed functional verification, contributed reusable IP blocks to eSim, and maintained documentation in LaTeX and GitHub.
+I’m passionate about **processor microarchitecture, digital IC design, and verification**, and I enjoy building **scalable, high-performance hardware architectures**.  
 
-My interests are in **Digital IC Design, RTL Design, and Verification**, with a strong focus on **processor microarchitecture, open-source IP development, and EDA workflows**.  
-I enjoy building **scalable, modular, and high-performance hardware architectures** and contributing to research-driven hardware projects.
-
-Outside of engineering, I like exploring **EDA tools**, sharing technical insights, and mentoring beginners in **VLSI and digital design**.
+Outside of work, I **love listening to music, watching web series and movies, and have recently started reading books**.
 
 ---
 
