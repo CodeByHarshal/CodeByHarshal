@@ -2,7 +2,7 @@
 
 I'm [**Harshal Dhage**](https://www.linkedin.com/in/harshaldhage/), a **Silicon Design Engineer** focused on **RTL Design** and **Functional Verification**. I have a proven track record of architecting **pipelined CPUs** and **achieving 95%+ functional coverage** in complex digital systems.
 
-I’m former a **VLSI Design Intern at [NIELIT Aurangabad](https://www.nielit.gov.in/)**, Architected a **5-stage pipelined RISC-V microarchitecture** and **RTL Design Intern at [FOSSEE, IIT Bombay](https://esim.fossee.in/)**, where I contributed to **RTL modules, verification, and reusable IP for open-source adoption**.  
+I’m former **VLSI Design Intern at [NIELIT Aurangabad](https://www.nielit.gov.in/)**, Architected a **5-stage pipelined RISC-V microarchitecture** and **RTL Design Intern at [FOSSEE, IIT Bombay](https://esim.fossee.in/)**, where I contributed to **RTL modules, verification, and reusable IP for open-source adoption**.  
 
 I’m passionate about **processor microarchitecture, ASIC design, and verification**, and I enjoy building **scalable, high-performance hardware architectures**.  
 
